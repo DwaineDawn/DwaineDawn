@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Dwaine  ヾ(≧▽≦*)o
-- 👀 I’m interested in building website
-- 🌱 I’m currently learning backend work
 - 💞️ Currently self taught
 - 😎 Hoping to get better !!
 - ❤ Love You All , Saty safe !
