@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dwaine  ヾ(≧▽≦*)o
+- 👨‍💻C#, Javascript, python
 - 💞️ Currently self taught
 - 😎 Hoping to get better !!
 - ❤ Love You All , Saty safe !
