@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dwaine  ヾ(≧▽≦*)o
-- 👨‍💻 C/C++ , C#. Python, Javascript, Css, Html
+- 👨‍💻 C/C++ , C#, Python, Javascript, Css, Html
 - 💞️ Currently self taught
 - 😎 Hoping to get better !!
 - ❤ Love You All , Saty safe !
